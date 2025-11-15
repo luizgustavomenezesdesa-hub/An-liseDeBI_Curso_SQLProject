@@ -60,7 +60,4 @@ Este repositório ajuda a praticar:
 - Compreensão de relacionamentos
 - Consulta de dados de forma mais analítica
 
----
-
-## 🧾 Licença
 Livre para estudo e reutilização.
